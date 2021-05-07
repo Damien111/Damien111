@@ -2,11 +2,19 @@
 
 I'm an aspiring Web Developer, Software Developer, and Systems Administrator.
 
-**💼 Currently working on:** Getting my CompTIA ITF, A+, Network+, and Security+ certificates.
+**💼 Currently working on:** Getting my CompTIA ITF, A+, Network+, and Security+ certificates. & My Anime themed Discord suite.
 
 [![GitHub](https://img.shields.io/github/followers/Damien111.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damien111?tab=followers)
 [![Website](https://img.shields.io/badge/-ripdamien.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ripdamien.com)](https://ripdamien.com)
 ![Discord](https://img.shields.io/discord/261260904656535552)
+
+## 🖥️ Projects
+- **Yuno Gasai** [[Link]](https://yunogasai.net), a discord bot with over 400 commands built for any type of community.
+- **Kurumi Tokisaki**, a private discord bot built for the Fallen-Networks gaming community.
+- **Anna Nishikinomiya**, a NSFW addon meant for the Yuno Gasai discord bot.
+- **Shinoa Hiragi**, a currency addon for the Yuno Gasai discord bot meant to replicate and expand upon Yuno’s currency features in a style similar to Dank Memer.
+- **Tohka Yatogami**, an undecided addon for the Yuno Gasai discord bot.
+- **Yuno Gasai API**, a highly optimized & expansive web API meant for my discord bots that expands upon features other public API's lack.
 
 ## 👯 Communities
 - Owner of [Fallen-Networks](https://fallen-networks.com), a gaming community with servers in CS:GO, Garry's Mod, Rust, and FiveM
