@@ -11,7 +11,7 @@ I'm an aspiring Web Developer, Software Developer, and Systems Administrator.
 ## 🖥️ Projects
 - **Yuno Gasai** [[Link]](https://yunogasai.net), a discord bot with over 400 commands built for any type of community.
 - **Kurumi Tokisaki**, a private discord bot built for the Fallen-Networks gaming community.
-- **Anna Nishikinomiya**, a NSFW addon meant for the Yuno Gasai discord bot.
+- **Anna Nishikinomiya** [[Link]](https://discord.com/oauth2/authorize?client_id=838003255673094176&permissions=0&scope=bot), a NSFW addon meant for the Yuno Gasai discord bot.
 - **Shinoa Hiragi**, a currency addon for the Yuno Gasai discord bot meant to replicate and expand upon Yuno’s currency features in a style similar to Dank Memer.
 - **Tohka Yatogami**, a gacha addon for the Yuno Gasai discord bot meant to expand upon Yuno's commands to add features similar to Mudae.
 - **Yuno Gasai API**, a highly optimized & expansive web API meant for my discord bots that expands upon features other public API's lack.
