@@ -24,13 +24,13 @@ I'm an aspiring Web Developer, Software Developer, and Systems Administrator.
 
 - Currently Using and Learning
 
-| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/php.svg" width="38">](https://www.php.net/) |
-|---|---|---|---|
+| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/php.svg" width="38">](https://www.php.net/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/)
+|---|---|---|---|---|
 
 - Interested In Learning
 
-| [<img src="https://cdn.svgporn.com/logos/java.svg" width="38">](https://www.java.com/en/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-sharp.svg" width="38">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) |
-|---|---|---|---|---|---|---|
+| [<img src="https://cdn.svgporn.com/logos/java.svg" width="38">](https://www.java.com/en/) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/c-sharp.svg" width="38">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="38">](https://www.cplusplus.com/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) |
+|---|---|---|---|---|---|
 
 ### Tools 🛠️
 
