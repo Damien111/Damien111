@@ -22,6 +22,7 @@ Most of my repositories are private, so if you are interested in something pleas
 - **SourceServerStatus**, a nodejs project meant to monitor your source servers for problems with ping, server status, and game updates.
 - **SourceDiscordLogs**, a nodejs project meant to log actions on a source server without using internal plugins.
 - **Sourcepawn Plugins**, numerous small to medium sized sourcepawn plugins designed for my CS:GO gaming community.
+- **GmodAdminSuite**, an extended administration suite for the SAM Gmod Admin Menu, with extended bans, comms, secondary groups, ext.
 
 ## 👯 Communities
 - Owner of [Fallen-Networks](https://fallen-networks.com), a gaming community with servers in CS:GO, Garry's Mod, Rust, and FiveM.
