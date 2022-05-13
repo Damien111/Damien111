@@ -22,7 +22,7 @@ Most of my repositories are private, so if you are interested in something pleas
 - **SourceServerStatus**, a nodejs project meant to monitor your source servers for problems with ping, server status, and game updates.
 - **SourceDiscordLogs**, a nodejs project meant to log actions on a source server without using internal plugins.
 - **Sourcepawn Plugins**, numerous small to medium sized sourcepawn plugins designed for my CS:GO gaming community.
-- **GmodAdminSuite**, an extended administration suite for the SAM Gmod Admin Menu, with extended bans, comms, secondary groups, ext.
+- **GmodAdminSuite**, an extended LUA Garry's Mod administration suite for the SAM Gmod Admin Menu, with extended bans, comms, secondary groups, ext.
 
 ## 👯 Communities
 - Owner of [Fallen-Networks](https://fallen-networks.com), a gaming community with servers in CS:GO, Garry's Mod, Rust, and FiveM.
@@ -30,24 +30,24 @@ Most of my repositories are private, so if you are interested in something pleas
 
 ### Programming Languages 🌐
 
-- Currently Using
+- Currently Using & Learning
 
-| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/php.svg" width="38">](https://www.php.net/) |
-|---|---|---|---|
-
-- Learning or Interested in
-
-| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/go.svg" width="38">](https://go.dev/) |
+| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/php.svg" width="38">](https://www.php.net/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
 |---|---|---|---|---|
+
+- Interested in
+
+| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/go.svg" width="38">](https://go.dev/) |
+|---|---|---|---|
 
 ### Tools 🛠️
 
-- Currently Using
+- Currently Using & Learning
 
 | [<img src="https://cdn.svgporn.com/logos/debian.svg" width="38">](https://www.debian.org/) | [<img src="https://cdn.svgporn.com/logos/nginx.svg" width="38">](https://www.nginx.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="38">](https://www.docker.com/) | [<img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" width="38">](https://mariadb.org/) | [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="38">](https://ubuntu.com/) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="38">](https://www.mysql.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="38">](https://www.sublimetext.com/) | [<img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=5848" width="38">](https://winscp.net/eng/index.php) | [<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="38">](https://www.linux.org/) | [<img src="https://cdn.svgporn.com/logos/npm.svg" width="38">](https://www.npmjs.com/) | [<img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" width="38">](https://mobaxterm.mobatek.net/) |
 |---|---|---|---|---|---|---|---|---|---|---|
 
-- Learning or Interested in
+- Interested in
 
 | [<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="38">](https://git-scm.com/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" width="38">](https://redis.io/) | [<img src="https://cdn.svgporn.com/logos/aws.svg" width="38">](https://aws.amazon.com/) | [<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" width="38">](https://azure.microsoft.com/) | [<img src="https://cdn.svgporn.com/logos/apache.svg" width="20">](https://www.apache.org/) |
 |---|---|---|---|---|
