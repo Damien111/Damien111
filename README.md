@@ -1,4 +1,4 @@
-# Hey, I'm Damien! 👋
+<h1 align="center">Hey, I'm Damien! 👋</h2>
 
 I'm an aspiring System Administrator, Network Engineer, Linux fanatic, and hobbyist programmer.
 
@@ -19,40 +19,41 @@ Most of my repositories are private, so if you are interested in something pleas
 - **Shinoa Hiragi**, a currency based discord bot that is meant to replicate Dank Memers functionality in an anime theme. 
 - **Tohka Yatogami**, a gacha based discord bot that is meant to replicate Mudae functionality for learning purposes.
 - **Yuno Gasai API**, a highly optimized & simple web API meant for my discord bots that expands upon features other public API's lack.
-- **SourceServerStatus**, a nodejs project meant to monitor your source servers for problems with ping, server status, and game updates.
-- **SourceDiscordLogs**, a nodejs project meant to log actions on a source server without using internal plugins.
-- **Sourcepawn Plugins**, numerous small to medium sized sourcepawn plugins designed for my CS:GO gaming community.
-- **GmodAdminSuite**, an extended LUA Garry's Mod administration suite for the SAM Gmod Admin Menu, with extended bans, comms, secondary groups, ext.
+- **Numerous Private Projects**, which are made exclusively for my gaming community. This consists of things from server scripts, to backend systems, to mini tools created to run my gaming community.
 
 ## 👯 Communities
 - Owner of [Fallen-Networks](https://fallen-networks.com), a gaming community with servers in CS:GO, Garry's Mod, Rust, and FiveM.
-- Owner of [Mazora](https://mazora.net), a minecraft community that is slowly being worked on as a passion project. 
+- Owner of [Mazora](https://mazora.net), a cancelled minecraft community that was originally a passion project. 
 
-### Programming Languages 🌐
+## 🌐 Skill Set
+<br>
+<p align="center">
+  <code><img height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/react.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/lua.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/php.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/nginx.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/mariadb-icon.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/debian.svg"></code>
+</p>
 
-- Currently Using & Learning
+## 🌐 Learning
+<br>
+<p align="center">
+  <code><img height="50" src="https://cdn.svgporn.com/logos/electron.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/go.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/aws.svg"></code>
+</p>
 
-| [<img src="https://cdn.svgporn.com/logos/html-5.svg" width="38">](https://html.spec.whatwg.org/) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="38">](https://www.javascript.com/) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" width="38">]() | [<img src="https://cdn.svgporn.com/logos/php.svg" width="38">](https://www.php.net/) | [<img src="https://cdn.svgporn.com/logos/lua.svg" width="38">](http://www.lua.org/) |
-|---|---|---|---|---|
-
-- Interested in
-
-| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="38">](https://nodejs.org/en/) | [<img src="https://cdn.svgporn.com/logos/electron.svg" width="38">](https://www.electronjs.org/) | [<img src="https://cdn.svgporn.com/logos/python.svg" width="38">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/go.svg" width="38">](https://go.dev/) |
-|---|---|---|---|
-
-### Tools 🛠️
-
-- Currently Using & Learning
-
-| [<img src="https://cdn.svgporn.com/logos/debian.svg" width="38">](https://www.debian.org/) | [<img src="https://cdn.svgporn.com/logos/nginx.svg" width="38">](https://www.nginx.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="38">](https://www.docker.com/) | [<img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" width="38">](https://mariadb.org/) | [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="38">](https://ubuntu.com/) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="38">](https://www.mysql.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="38">](https://www.sublimetext.com/) | [<img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=5848" width="38">](https://winscp.net/eng/index.php) | [<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="38">](https://www.linux.org/) | [<img src="https://cdn.svgporn.com/logos/npm.svg" width="38">](https://www.npmjs.com/) | [<img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" width="38">](https://mobaxterm.mobatek.net/) |
-|---|---|---|---|---|---|---|---|---|---|---|
-
-- Interested in
-
-| [<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="38">](https://git-scm.com/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" width="38">](https://redis.io/) | [<img src="https://cdn.svgporn.com/logos/aws.svg" width="38">](https://aws.amazon.com/) | [<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" width="38">](https://azure.microsoft.com/) | [<img src="https://cdn.svgporn.com/logos/apache.svg" width="20">](https://www.apache.org/) |
-|---|---|---|---|---|
-
-### Other Accounts 📫
+## 📫 Other Accounts
 
 You can find and get touch with me on these accounts!
 
