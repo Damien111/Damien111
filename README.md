@@ -14,10 +14,11 @@ Most of my repositories are private, so if you are interested in something pleas
 
 ## 🖥️ Projects
 - **Yuno Gasai** [[Link]](https://yunogasai.net), a discord bot with over 400 commands built for any type of community.
-- **Kurumi Tokisaki**, a private discord bot built for the Fallen-Networks gaming community.
-- **Anna Nishikinomiya** [[Link]](https://discord.com/oauth2/authorize?client_id=838003255673094176&permissions=0&scope=bot), a NSFW discord bot that scrapes reddit for all it's content.
-- **Shinoa Hiragi**, a currency based discord bot that is meant to replicate Dank Memers functionality in an anime theme. 
-- **Tohka Yatogami**, a gacha based discord bot that is meant to replicate Mudae functionality for learning purposes.
+- **Roxana**, a private discord bot built for the Fallen-Networks gaming community.
+- **Lucia** [[Link]](https://discord.com/oauth2/authorize?client_id=838003255673094176&permissions=0&scope=bot), a NSFW discord bot that scrapes reddit for all it's content.
+- **Cayena**, an in depth auto moderation discord bot meant to be an addon to Yuno. 
+- **Fiona**, a gacha based discord bot that is meant to replicate Mudae functionality for learning purposes.
+- **Ruby**, a music discord bot.
 - **Yuno Gasai API**, a highly optimized & simple web API meant for my discord bots that expands upon features other public API's lack.
 - **Numerous Private Projects**, which are made exclusively for my gaming community. This consists of things from server scripts, to backend systems, to mini tools created to run my gaming community.
 
