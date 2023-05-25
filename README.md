@@ -2,7 +2,7 @@
 
 I'm an aspiring System Administrator, Network Engineer, Linux fanatic, and hobbyist programmer.
 
-I run many different things including gameservers, extensive linux dev ops and LEMP stack environments focused on security, and discord bots written in javascript.
+I run many different things including gameservers, extensive linux dev ops and LEMP stack environments focused on security, and discord bots written in typescript.
 
 Most of my repositories are private, so if you are interested in something please reach out!
 
